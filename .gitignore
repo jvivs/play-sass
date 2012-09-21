@@ -1,6 +1,7 @@
 target
 project/target
 *.swp
+*.iml
 .idea
 .idea_modules
 .sass-cache
